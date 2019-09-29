@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">Krishi AI</string>
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+    <string name="market_prediction">Market Prediction</string>
+    <string name="pest_details">Pest Details</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pest_name">Insect Name</string>
+    <string name="select_language">Select the language you want</string>
+    <string name="english">English</string>
+    <string name="hindi">हिंदी</string>
+    <string name="marathi">मराठी</string>
+    <string name="tutorial">A Guide For The App :)</string>
+    <string name="account_name">Raghav Heda</string>
+    <string name="email_id">raghav@gmail.com</string>
+    <string name="drawer_profile">Profile</string>
+    <string name="drawer_language">Language</string>
+    <string name="drawer_tutorial">Tutorial</string>
+    <string name="drawer_feedback">FeedBack</string>
+    <string name="drawer_logout">Logout</string>
+    <string name="profile_name">Name:</string>
+    <string name="profile_emailid">Email ID:</string>
+    <string name="profile_farmer_identification_number">7/12 Number:</string>
+    <string name="profile_soil_type">Type of Soil:</string>
+    <string name="profile_crop_type">Type of Crop:</string>
+    <string name="profile_name_value">Lorem Ipsum</string>
+    <string name="profile_username_value">lorem_ipsum</string>
+    <string name="profile_farmer_identification_number_value">2586349921</string>
+    <string name="profile_soil_type_value">Sandy</string>
+    <string name="profile_button">Edit Profile</string>
+    <string name="edit_profile_heading">Edit Account Details</string>
+    <string name="edit_profile_name">Full Name</string>
+    <string name="edit_profile_username">User Name</string>
+    <string name="edit_profile_farmer_identification_number">Enter A Valid 7/12 Number</string>
+    <string name="edit_profile_soil_type">Type of Soil</string>
+    <string name="edit_profile_crop_type">Type of Crop</string>
+    <string name="edit_profile_password">Password</string>
+    <string name="edit_profile_confirm_password">Re-Type Password</string>
+    <string name="edit_profile_button">Edit Details</string>
+    <string name="government_policies">Government Policies</string>
+    <string name="npk_values">NPK Values</string>
+    <string name="nitrogen_value">Nitrogen Value</string>
+    <string name="phosphorus_value">Phosphorus Value</string>
+    <string name="potassium_value">Potassium Value</string>
+    <string name="done">Done</string>
+    <string name="crop_selection">Crop Selection</string>
+    <string name="feedback">Feedback</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="profile_details">Profile Details</string>
+    <string name="please_give_your_feedback_here">Please Give Your Feedback Here!</string>
+    <string name="submit">Submit</string>
+    <string name="sensor_details">Sensor Details</string>
+    <string name="temperature">Temperature</string>
+    <string name="moisture">Moisture</string>
+    <string name="water_the_plants">Water The Plants!</string>
+    <string name="click_here">Click Here!</string>
+    <string name="select_the_colour_for_nitrogen">Select the colour for Nitrogen:</string>
+    <string name="select_the_colour_for_phosphorus">Select the colour for Phosphorus:</string>
+    <string name="select_the_colour_for_potassium">Select the colour for Potassium:</string>
+    <string name="type_of_crop">Type Of Crop</string>
+    <string name="variety_of_crops">Variety Of Crops</string>
+    <string name="yield_prediction">Yield Prediction</string>
+    <string name="click_the_button_to_get_yield_suggestion">Click The Button To Get Yield Suggestion</string>
+    <string name="click_the_button_to_get_crop_suggestion">Click The Button To Get Crop Suggestion</string>
+    <string name="write_your_feedback_here">Write Your Feedback Here</string>
+    <string name="no_need_to_water">No Need To Water!</string>
+    <string name="done_watering">Done watering!</string>
+    <string name="click_here_to_view">Click here to view!</string>
+    <string name="pest_detected">Pest Has Been Detected!</string>
+    <string name="no_pest">No Pests!</string>
+    <string name="welcome_to_krishiai">Welcome To KrishiAI</string>
+
+
+    <string-array name="soil_type">
+        <item>Red Loam Soil</item>
+        <item>Black Soil</item>
+        <item>Light Black Soil</item>
+        <item>Red Soil</item>
+        <item>Sandy Clay Foam</item>
+        <item>Chalka Soils</item>
+        <item>Inceptisol</item>
+        <item>Alluvial</item>
+    </string-array>
+    <string-array name="crop_type">
+        <item>Groundnut</item>
+        <item>Rice</item>
+        <item>Bajra</item>
+        <item>Cauliflower</item>
+        <item>Cabbage</item>
+        <item>Turmeric</item>
+        <item>Sunflower</item>
+        <item>Potato</item>
+        <item>Onion</item>
+        <item>Barley</item>
+        <item>Maize</item>
+        <item>Wheat</item>
+        <item>Sugarcane</item>
+        <item>Tomato</item>
+        <item>Brinjal</item>
+    </string-array>
+    <string-array name="nitrogen_colour">
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+    </string-array>
+    <string-array name="phosphorus_colour">
+        <item>5</item>
+        <item>15</item>
+        <item>25</item>
+        <item>35</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="potassium_colour">
+        <item>0</item>
+        <item>25</item>
+        <item>50</item>
+        <item>100</item>
+        <item>150</item>
+    </string-array>
+</resources>

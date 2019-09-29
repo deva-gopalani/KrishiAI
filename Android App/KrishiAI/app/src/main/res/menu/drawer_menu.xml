@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <!--<item
+            android:id="@+id/menu_home"
+            android:title="Home"
+            android:icon="@drawable/baseline_home_black_18dp"
+            >
+        </item>-->
+        <item
+            android:id="@+id/menu_profile"
+            android:title="@string/drawer_profile"
+            android:icon="@drawable/baseline_account_circle_black_18dp"
+            >
+        </item>
+        <item
+            android:id="@+id/menu_language"
+            android:title="@string/drawer_language"
+            android:icon="@drawable/baseline_language_black_18dp">
+        </item>
+        <item
+            android:id="@+id/menu_govtPolicies"
+            android:title="@string/government_policies"
+            android:icon="@drawable/baseline_help_black_18dp"
+            >
+        </item>
+        <item
+            android:id="@+id/menu_feedback"
+            android:title="@string/drawer_feedback"
+            android:icon="@drawable/baseline_help_black_18dp"
+            >
+        </item>
+        <item
+            android:id="@+id/menu_logout"
+            android:title="@string/drawer_logout"
+            android:icon="@drawable/baseline_power_settings_new_black_18dp">
+        </item>
+    </group>
+
+
+
+</menu>
